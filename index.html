@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="styles.css" rel="stylesheet">
+    <script src="scripts.js"></script>
+    <!-- <link rel="icon" type="image/x-icon" href="favicon.png"> -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stupid 02</title>
+</head>
+<body onload="begin();">
+    <div id="outer">
+        <span id="history">Loading...<br></span>
+        <span id="terminal">
+            <form onsubmit="enter(); return false;" style="position:absolute; display: inline-block;">
+                <input autofocus autocomplete="off" autocapitalize="off" spellcheck="false" id="terminalInput" type="text" placeholder="$">
+            </form>
+        </span>
+    </div>
+</body>
+</html>
