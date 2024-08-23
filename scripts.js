@@ -13,7 +13,7 @@ const initialLoadingDialogue = [
     "Recieving data...<br>",
     "Loading assets...<br>",
     "Preparing...<br>",
-    "Done!<br><br>Welcome to Calculator!<br>For more projects, visit<a href="https://amethystx.pages.dev/>amethystx.pages.dev</a>.<br>Enter the first number:&nbsp;"
+    "Done!<br><br>Welcome to stupidCalculator!<br>For more projects, visit <a style='color: #f6f' href='https://amethystx.pages.dev/'>my website</a>.<br>Enter the first number:&nbsp;"
 ]
 
 const finalLoadingDialogue = [
