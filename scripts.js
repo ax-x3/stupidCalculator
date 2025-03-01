@@ -1,4 +1,4 @@
-yvar stage = 0;
+var stage = 0;
 var firstNumber = NaN;
 var operator = 0;
 var secondNumber = NaN;
