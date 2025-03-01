@@ -1,4 +1,4 @@
-var stage = 0;
+yvar stage = 0;
 var firstNumber = NaN;
 var operator = 0;
 var secondNumber = NaN;
@@ -13,7 +13,7 @@ const initialLoadingDialogue = [
     "Recieving data...<br>",
     "Loading assets...<br>",
     "Preparing...<br>",
-    "Done!<br><br>Welcome to stupidCalculator!<br>For more projects, visit <a style='color: #f6f' href='https://amethystx.pages.dev/'>my website</a>.<br>Enter the first number:&nbsp;"
+    "Done!<br><br>Welcome to stupidCalculator!<br>For more projects, visit <a style='color: #f6f' href='https://amethystx.net/'>my website</a>.<br>Enter the first number:&nbsp;"
 ]
 
 const finalLoadingDialogue = [
